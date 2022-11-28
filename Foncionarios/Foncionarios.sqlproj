@@ -57,4 +57,13 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Cargos.sql" />
+    <Build Include="paises.sql" />
+    <Build Include="Foncionarios.sql" />
+    <Build Include="Departamentos.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Foncionarios.refactorlog" />
+  </ItemGroup>
 </Project>
